@@ -1,6 +1,6 @@
 # Vanier Master Schedule Api
 
-This is a simple Python API wrapper for the Vanier master schedule. You can browse using your terminal or integrate it with something else (for example notify you if seats are available).
+This is a simple Python wrapper for the Vanier master schedule. You can browse using your terminal or integrate it with something else (for example notify you if seats are available).
 
 This was made to have *some* fun in a time when registration is not so great, to say the least, where schedules are *awful* with *no* available GenEd courses...
 
