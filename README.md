@@ -12,4 +12,4 @@ This was made to have *some* fun in a time when registration is not so great, to
 - [ ] Sorting support (from the master schedule)
 - [ ] Improve fetch handling
 
-*This project is made a student and is by no means an official way to access the master schedule.*
+*This project is made by a student and is by no means an official way to access the master schedule.*
